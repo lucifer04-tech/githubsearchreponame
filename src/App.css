@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.search {
+  border: 2px solid black;
+  padding: 30px;
+  margin: 10px auto;
+}
+
+input {
+  outline: 0;
+  border-width: 0 0 2px;
+  border-color: black;
+  margin-left: 10px;
+}
+
+button {
+  background-color: white;
+  color: black;
+  border: 1px solid green;
+  font-size: 18px;
+}
